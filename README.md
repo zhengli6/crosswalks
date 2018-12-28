@@ -5,4 +5,4 @@ This project is written in Python
 
 Content to be added. 
 
-For more details, please see [crosswalk detection project](Civil_Infrastructure_project_report_ZhengLi.pdf)
+For more details, please see [project slides](ZhengLi_Crosswalks_project.pdf) or [crosswalk detection project](Civil_Infrastructure_project_report_ZhengLi.pdf).
